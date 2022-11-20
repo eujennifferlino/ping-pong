@@ -9,10 +9,9 @@ Esse projeto foi criado no intuito de aprender lógica de programação.
 ## Funcionalidades
 A principai funcionalidade do projeto é:
 
-✅ Responsivo em tela web
-✅ Animações precisas
-✅ Jogabilidade 
-
+✅ Responsivo em tela web </br>
+✅ Animações precisas </br>
+✅ Jogabilidade </br>
 
 ## Tecnologias
 * HTML5
